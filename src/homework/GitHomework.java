@@ -8,4 +8,8 @@ public void getCity () {
 	public void getCountry () {
 		System.out.println("USA");
 	}
+
+	//added this code
+	int a = 10;
+	int b = 20;
 }
